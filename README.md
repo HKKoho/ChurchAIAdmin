@@ -4,7 +4,7 @@
 
 # 主日學教師支援工具 (Sunday School Teacher Support Tool)
 
-A comprehensive AI-powered Sunday School administration and teaching support application with MongoDB Atlas integration for data persistence.
+A comprehensive AI-powered Church administration and teaching support application with MongoDB Atlas integration for data persistence.
 
 View your app in AI Studio: https://ai.studio/apps/drive/12XnGnPpRVxh_r20K-dnTd97dF-0bq4S7
 
